@@ -1,0 +1,12 @@
+fish2skyplane -s 185 -r 1548 -c 2006 1460 -m 60 -w 2048 -d 0383.jpg
+mv 0383_sky.jpg 0383_60deg.jpg
+
+fish2skyplane -s 185 -r 1548 -c 2006 1460 -m 70 -w 2048 -d 0383.jpg
+mv 0383_sky.jpg 0383_70deg.jpg
+
+fish2skyplane -s 185 -r 1548 -c 2006 1460 -m 60 -w 2048 -d -l 0383.jpg
+mv 0383_sky.jpg 0383_60deg_cropped.jpg
+
+fish2skyplane -s 185 -r 1558 -c 2040 1480 -m 60 -w 2048 -d test.jpg
+mv test_sky.jpg test_60deg.jpg
+
