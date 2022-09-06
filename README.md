@@ -6,6 +6,8 @@ The following remaps a fisheye image such that distances on a plane perpendicula
 
 FURTHER INFORMATION: http://paulbourke.net/dome/fish2skyplane/
 
+![My Image](example.jpg)
+
 ![alt text](http://paulbourke.net/dome/fish2skyplane/)
 
 
