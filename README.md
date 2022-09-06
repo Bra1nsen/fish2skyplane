@@ -18,4 +18,4 @@ The following remaps a fisheye image such that distances on a plane perpendicula
 
 
 
-Donate for a coffee: @pdbourke [PAYPAL]
+Donate for a coffee: *@pdbourke* [PAYPAL]
