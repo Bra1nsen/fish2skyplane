@@ -8,7 +8,7 @@ FURTHER INFORMATION: http://paulbourke.net/dome/fish2skyplane/
 
 ![My Image](fish2skyplane\example.jpg)
 
-![alt text](http://paulbourke.net/dome/fish2skyplane/)
+![alt text](https://github.com/Bra1nsen/fish2skyplane/blob/main/example.png)
 
 
 
