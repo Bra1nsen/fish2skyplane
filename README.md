@@ -5,3 +5,17 @@ The following remaps a fisheye image such that distances on a plane perpendicula
 
 
 ![alt text](http://paulbourke.net/dome/fish2skyplane/)
+
+
+
+
+
+
+
+
+
+![alt text](https://st2.depositphotos.com/4431055/11871/i/950/depositphotos_118718962-stock-photo-coffee-cup-and-thank-you.jpg)
+
+
+
+Donate for a coffee: @pdbourke [PAYPAL]
