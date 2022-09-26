@@ -7,10 +7,10 @@ The following remaps a fisheye image such that distances on a plane perpendicula
 FURTHER INFORMATION: http://paulbourke.net/dome/fish2skyplane/
 
 LINUX
-1. <git clone https://github.com/Bra1nsen/fish2skyplane.git>
-2. cd /home/pi/fish2skyplane/fish2skyplane/package
-3. make
-4. ./fish2skyplane -COMMANDS read runme.txt
+1. ```git clone https://github.com/Bra1nsen/fish2skyplane.git```
+2. ```cd /home/pi/fish2skyplane/fish2skyplane/package```
+3. ```make```
+4. ./fish2skyplane -COMMANDS *read runme.txt*
 
 
 
