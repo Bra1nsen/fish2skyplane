@@ -30,6 +30,24 @@ LINUX
 
 ![alt text](https://st2.depositphotos.com/4431055/11871/i/950/depositphotos_118718962-stock-photo-coffee-cup-and-thank-you.jpg)
 
+```
+   fprintf(stderr,"Usage: %s [options] imagefile\n",s);
+   fprintf(stderr,"Options\n");
+   fprintf(stderr,"   -w n        sets the output image size, default: same as input fisheye\n");
+   fprintf(stderr,"   -a n        sets antialiasing level, default: %d\n",vars.antialias);
+   fprintf(stderr,"   -s n        fisheye field of view (degrees), default: %g\n",vars.fishFOV);
+   fprintf(stderr,"   -c x y      fisheye center, default: center of image\n");
+   fprintf(stderr,"   -r n        fisheye radius, default: half the fisheye image width\n");
+   fprintf(stderr,"   -m n        maximum angle to represent, default: %g\n",vars.latitudemax);
+   fprintf(stderr,"   -z n        roll about the fisheye optical axis, default: %lf\n",vars.roll);
+   fprintf(stderr,"   -l          enable cropping by maximum latitude, default: off\n");
+   fprintf(stderr,"   -p n n n n  fourth order correction terms, default: no correction\n");
+   fprintf(stderr,"   -o s        output filename, default: derived from input file\n");
+   fprintf(stderr,"   -d          debug mode\n");
+   exit(-1);
+```
+
+
 
 
 [PAYPAL] Donate for a coffee: *@pdbourke* 
