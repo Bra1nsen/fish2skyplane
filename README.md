@@ -1,4 +1,4 @@
-# fish2skyplane | written by Paul Bourke (November 2021)
+# fish2skyplane | 
 
 Image Transformation Sky Hemisphere 
 
