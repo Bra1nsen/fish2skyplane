@@ -1,4 +1,4 @@
-# fish2skyplane | Paul Matteschk & Paul Bourke
+# fish2skyplane | Paul Bourke & Paul Matteschk 
 
 Image Transformation Sky Hemisphere 
 
